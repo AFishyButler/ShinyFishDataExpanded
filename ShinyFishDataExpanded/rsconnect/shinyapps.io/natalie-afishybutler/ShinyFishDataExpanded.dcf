@@ -5,9 +5,9 @@ account: natalie-afishybutler
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5308154
-bundleId: 5357888
+bundleId: 5357917
 url: https://natalie-afishybutler.shinyapps.io/ShinyFishDataExpanded/
-when: 1639185008.5764
-lastSyncTime: 1639185008.5764
+when: 1639185882.27858
+lastSyncTime: 1639185882.27858
 asMultiple: FALSE
 asStatic: FALSE

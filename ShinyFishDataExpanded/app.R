@@ -106,13 +106,13 @@ server <- function(input, output, session) {
         forklength_filtered()%>%
             ggplot(aes(`fork length (mm)`))+
             geom_histogram()+
-            theme_solarized())
+            theme_wsj())
     
     output$id_dropouttemp <- renderPlot(
         forklength_filtered()%>%
             ggplot(aes(`Dropout temp`))+
             geom_histogram()+
-            theme_solarized())
+            theme_wsj())
     
     output$id_table <- renderTable(forklength_filtered())
     
