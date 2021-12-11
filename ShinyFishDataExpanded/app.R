@@ -4,7 +4,7 @@ library(shinythemes)
 library(shinyWidgets)
 library(ggthemes)
 
-Fry_thermal_maximum <- read_csv("../Fry_thermal_maximum.csv", 
+Fry_thermal_maximum <- read_csv("Fry_thermal_maximum.csv", 
                                 col_types = cols(`Fish ID` = col_character(),
                                                  `dropout time` = col_time(format = "%H:%M:%S"), 
                                                  `Acclimation temp C` = col_character(), 
