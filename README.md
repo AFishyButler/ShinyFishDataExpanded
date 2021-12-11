@@ -21,6 +21,9 @@ Enjoy!
 | ------------- | 
 | https://natalie-afishybutler.shinyapps.io/ShinyFishDataExpanded/ |
 
+| Click here for the previous version| 
+| ------------- | 
+|  https://natalie-afishybutler.shinyapps.io/ShinyFishData/ | 
 
 
 ### Files
